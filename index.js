@@ -57,7 +57,7 @@ app.listen(PORT, () => {
 	██╔══██╗██╔══╝  ╚════██║   ██║   ██╔══██║██╔═══╝ ██║
 	██║  ██║███████╗███████║   ██║   ██║  ██║██║     ██║
 	╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-			                              Make By Hitomi 
+			                              Re-Make by SyCops
 								 
  Server running on http://localhost:` + PORT)
 console.log(`Hello ${creator}`)
